@@ -33,10 +33,10 @@ public class LoginPage{
         loginButton.click();
     }
 
-    Public void Completelogin()
+    public void Completelogin()
     {
-        enterUsername('TestUser');
-        enterPassword('s8IfNMhKr');
+        enterUsername("TestUser");
+        enterPassword("s8IfNMhKr");
         clickLoginButton();
         clickSkipButtonforTest();
     }
